@@ -1,0 +1,39 @@
+# 📔 Class 1 Assignment
+> Initial project for learning Git & GitHub fundamentals.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+### 📝 Description
+This is my first project for the Git & GitHub class. The primary goals of this assignment are to:
+* Understand how to create and manage a Repository.
+* Learn to use Markdown for professional project documentation.
+* Practice pushing code from a local environment to GitHub.
+
+---
+
+### 🚀 Live Demo
+🔗 [View Live Project](REPLACE_WITH_YOUR_GITHUB_PAGES_LINK)
+
+---
+
+### ✨ Key Features
+* 📱 Responsive Design: Fully optimized for both mobile and desktop views.
+* 🎨 Clean UI: A structured and user-friendly interface.
+* ⚡ Interactive Elements: Functional components powered by JavaScript.
+
+---
+
+### 📂 Project Structure
+Below is the directory structure for this project:
+```text
+my-project/
+├── index.html      # Main HTML entry point
+├── style.css       # Custom styling and layout
+├── script.js       # Logic and interactivity
+└── assets/         # Folder for images and icons
